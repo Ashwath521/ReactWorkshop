@@ -1,0 +1,99 @@
+Tech: Html<css<js,BootStrap
+Platfront: NodeJS vsCode, Node
+Javascrpt-Browser Google Chrome-v8 engine, Chrome
+2009 Ryhan Dhal V8engine c++js Library Node js
+callback function
+function taking another function as a parameter
+
+SPA ? single page Application --FB Youtube
+
+REACT- VDOM --VIIRTUAL DOM
+
+what is react
+why react
+how react
+
+React Is JS Library used to build Ui application
+
+Focus on Ui
+created By FB --
+React works on component based architecture
+Reusable
+declarative
+
+step native app1-mobile 
+
+
+npm-node package manager
+used for installing any third party libraries or package
+
+node --local module, core module(Ex;-http,util,os), third party module
+to install react:
+npx create-react-app
+
+npm init -y
+
+component-- functional / class
+Bindings
+
+
+functional /stateless /
+
+function Welcome(props){
+    return (<h1>Welcome World</h1>) jsx
+}
+
+React Es6 -JS 2015 -()=>
+
+class / stateful
+
+Es6
+
+class Greet extends React.component {
+    render() {
+        return(<h1>GoodMorning</h1>)
+    }
+}
+
+stateful in functional component
+Routing
+HOC Component
+
+
+React workshop - Day 3 
+
+Conditional Rendering
+List Rendering
+
+React Router
+
+react-router
+
+react-router-dom    -browser package
+react-router-native -for Mobile application
+
+npm i react-router-dom 
+
+Router, Route, Routes,Links, 
+
+BrowserRouter
+NativeRouter
+MemoryRouter
+HashRouter
+StaticRouter
+
+<Router>
+<Routes>
+<Route>
+
+Home
+Shop
+Contact
+
+React workshop - Day 3 
+HOC
+Axios
+
+React workshop - Day 4
+
+AxiosFormcontroll

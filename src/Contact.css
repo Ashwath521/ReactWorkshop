@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    /* height: 10 */
+    /* width: 100%; */
+    /* border: 1px solid black */
+}
+
+.child {
+    border: 2px solid black;
+
+    margin-top: 2rem;
+    margin-right: 1rem;
+    border-radius: 1rem;
+
+
+}
+
+.child h1 {
+    color: tomato;
+}
